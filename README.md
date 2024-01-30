@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Aryan 👋
+
+I'm a 20 year old developer based in Amherst, MA and I'm passionate about building softwares from scratch. 
+
+###📦 ToolBox
+
+##Frontend Development: 
 
 <!--
 **aryantipnis/aryantipnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
