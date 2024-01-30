@@ -1,11 +1,28 @@
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b68stvle=flat](https://www.pngall.com/wp-content/uploads/12/Wall-E-Robot-PNG-File.png)" alt='Wall-E'> </p>
 ### Hey, I'm Aryan 👋
 
-I'm a 20 year old developer based in Amherst, MA and I'm passionate about building softwares from scratch. 
+I'm a 20 year old developer based in Amherst, MA and I'm looking for Software/Frontend Developer internships for Summer 2024. 
 
-### 📦ToolBox
+## 📦ToolBox
 
-##Frontend Development: 
+**Frontend Development**:  `React` `HTML` `CSS` `Javascript` `TypeScript` `Material-UI` `Swift` `Android Studio` `Bootstrap`
+
+**Backend Development**: `Python` `Java` `C` `C++` `Node.js` `Express.js` `Spring Boot` `Firebase`
+
+**Database**: `SQL` `Mongo DB` `Postgres-SQL` 
+
+**Version Control**: `Git` `GitLab`
+
+**Others**: `Jupyter Notebooks` `REST APIs` `NumPy`
+
+## ✨Fun Facts
+
+* I love playing and watching soccer 
+* I love watching thriller movies
+* I am a quick learner
+
+## 📫 Contact
+
+For a quick response, email me at aryantipnis8323@gmail.com or https://www.linkedin.com/in/aryan-tipnis-7745b9218/
 
 <!--
 **aryantipnis/aryantipnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
