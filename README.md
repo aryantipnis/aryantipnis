@@ -1,4 +1,4 @@
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b68stvle=flat](https://www.pngall.com/wp-content/uploads/12/Wall-E-Robot-PNG-File.png)" alt='Wall-E'>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b68stvle=flat](https://www.pngall.com/wp-content/uploads/12/Wall-E-Robot-PNG-File.png)" alt='Wall-E'> </p>
 ### Hey, I'm Aryan 👋
 
 I'm a 20 year old developer based in Amherst, MA and I'm passionate about building softwares from scratch. 
