@@ -22,7 +22,7 @@ I'm a 20 year old developer based in Amherst, MA and I'm looking for Software/Fr
 
 ## 📫 Contact
 
-For a quick response, DM me at https://www.linkedin.com/in/aryan-tipnis-7745b9218/
+For a quick response, DM me at https://www.linkedin.com/in/aryan-tipnis/
 
 <!--
 **aryantipnis/aryantipnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
