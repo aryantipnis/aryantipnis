@@ -1,6 +1,6 @@
 ### Hey, I'm Aryan 👋
 
-I'm a 21 year old developer who graduated with a BS in Computer Science from the University of Massachusetts Amherst and I'm looking for full time Software/Frontend Developer opportunites. 
+I'm a 21 year old developer who graduated with a BS in Computer Science from the University of Massachusetts Amherst. I'm looking for full time Software/Frontend Developer opportunites. 
 
 ## 📦ToolBox
 
@@ -22,7 +22,7 @@ I'm a 21 year old developer who graduated with a BS in Computer Science from the
 
 ## 📫 Contact
 
-For a quick response, DM me at https://www.linkedin.com/in/aryan-tipnis/
+For a quick response, email me at atipnis@umass.edu. 
 
 <!--
 **aryantipnis/aryantipnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
