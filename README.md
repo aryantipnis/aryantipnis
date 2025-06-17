@@ -1,6 +1,6 @@
 ### Hey, I'm Aryan 👋
 
-I'm a 21 year old developer based in Amherst, MA and I'm looking for full time Software/Frontend Developer opportunites. 
+I'm a 21 year old developer who graduated with a BS in Computer Science from the University of Massachusetts Amherst and I'm looking for full time Software/Frontend Developer opportunites. 
 
 ## 📦ToolBox
 
