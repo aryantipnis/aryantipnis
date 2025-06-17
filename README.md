@@ -16,7 +16,7 @@ I'm a 21 year old developer who graduated with a BS in Computer Science from the
 
 ## ✨Fun Facts
 
-* I love developing website from scratch.
+* I love developing websites from scratch.
 * I love playing and watching soccer 
 * I love watching thriller movies
 * I am a quick learner
