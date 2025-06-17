@@ -1,6 +1,6 @@
 ### Hey, I'm Aryan 👋
 
-I'm a 20 year old developer based in Amherst, MA and I'm looking for Software/Frontend Developer internships for Summer 2024. 
+I'm a 21 year old developer based in Amherst, MA and I'm looking for full time Software/Frontend Developer opportunites. 
 
 ## 📦ToolBox
 
