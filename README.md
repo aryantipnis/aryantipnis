@@ -8,7 +8,7 @@ I'm a 22 year old developer who is pursuing a MS in Computer Science at the Univ
 
 **Backend Development**: `Python` `Java` `C` `C++` `Node.js` `Express.js` `Spring Boot` `Firebase`
 
-**Database**: `SQL` `NoSQL ``Mongo DB` `Postgres` 
+**Database**: `SQL` `NoSQL` `Mongo DB` `Postgres` 
 
 **Version Control**: `Git` `GitLab`
 
