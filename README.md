@@ -1,6 +1,6 @@
 ### Hey, I'm Aryan 👋
 
-I'm a 21 year old developer who graduated with a BS in Computer Science from the University of Massachusetts Amherst. I'm looking for full time Software/Frontend Developer opportunites. 
+I'm a 22 year old developer who is pursuing a MS in Computer Science at the University of Massachusetts Amherst. I'm looking for full time Software/Frontend Developer opportunites. 
 
 ## 📦ToolBox
 
@@ -8,7 +8,7 @@ I'm a 21 year old developer who graduated with a BS in Computer Science from the
 
 **Backend Development**: `Python` `Java` `C` `C++` `Node.js` `Express.js` `Spring Boot` `Firebase`
 
-**Database**: `SQL` `Mongo DB` `Postgres-SQL` 
+**Database**: `SQL` `NoSQL ``Mongo DB` `Postgres` 
 
 **Version Control**: `Git` `GitLab`
 
